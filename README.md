@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain
 Case Engenharia de Software
 
 
@@ -10,7 +10,7 @@ Case Engenharia de Software
 
 ---
 
-### O que é Blockchain?
+# O que é Blockchain?
 
 Essa tecnologia começou junto com a criptomoeda Bitcoin.
 
@@ -33,7 +33,7 @@ Uma arquitetura de redes de computadores onde cada um dos pontos ou nós da rede
 
 ---
 
-### Business de liquidação
+# Business de liquidação
 ### ou clearing house, oque são?
 
 São Responsáveis por garantir segurança e transparência às operações do mercado financeiro.
