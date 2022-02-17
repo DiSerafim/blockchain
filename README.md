@@ -5,7 +5,7 @@ Case Engenharia de Software
 ### Vamos falar sobre:
 - [O que é Blockchain?](#blockchain)
 - [Business de liquidação](#business-de-liquidação)
-- [E.. como a Blockchain se aplicaria no business deliquidação?](#e-como-a-blockchain-se-aplicaria-no-business-deliquidação)
+- [Como a Blockchain se aplicaria no business deliquidação?](#como-a-blockchain-se-aplicaria-no-business-deliquidação)
 
 
 ---
