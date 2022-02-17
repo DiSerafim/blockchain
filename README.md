@@ -33,7 +33,7 @@ Uma arquitetura de redes de computadores onde cada um dos pontos ou nós da rede
 
 ---
 
-# & Business de liquidação
+# Business de liquidação
 ### ou clearing house, oque são?
 
 São Responsáveis por garantir segurança e transparência às operações do mercado financeiro.
